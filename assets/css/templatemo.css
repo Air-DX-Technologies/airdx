@@ -51,7 +51,8 @@ p, a {font-weight: 400;}
 #main_nav .nav-item .nav-link:hover {color: #fff;}
 /* Home */
 #index_banner {
-  background-image: url('./../img/banner-bg-01.jpg');
+  /*background-image: url('./../img/banner-bg-01.jpg');*/
+  background-image: url('https://cdn.pixabay.com/photo/2017/05/12/08/29/coffee-2306471_960_720.jpg');
   background-position: center center; background-size: cover;
   height: 100%;
   min-height: 60vh;
