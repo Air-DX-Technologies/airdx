@@ -191,3 +191,16 @@ footer a.text-light:hover {
   color: #bfbfbf !important;
   transition-duration: 0.15s;
 }
+
+
+
+
+
+
+/*Adjustments: */
+.logo
+{
+  display: grid;
+  justify-content: center;
+  margin-top: -4em:
+}
