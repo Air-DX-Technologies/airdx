@@ -51,8 +51,9 @@ p, a {font-weight: 400;}
 #main_nav .nav-item .nav-link:hover {color: #fff;}
 /* Home */
 #index_banner {
-  /*background-image: url('./../img/banner-bg-01.jpg');*/
-  background-image: url('https://cdn.pixabay.com/photo/2013/07/18/14/56/open-163976_960_720.jpg');
+  background-image: url('./../img/banner-bg-01.jpg');
+  background-image: url('https://cdn.pixabay.com/photo/2021/04/15/11/53/office-desk-6180925_960_720.jpg'); 
+  background-image: url('https://cdn.pixabay.com/photo/2013/07/18/14/56/open-163976_960_720.jpg'); 
   background-position: center center; background-size: cover;
   height: 100%;
   min-height: 60vh;
@@ -196,11 +197,26 @@ footer a.text-light:hover {
 
 
 
-
-/*Adjustments: */
+/* Adjustments: */
 .logo
 {
   display: grid;
   justify-content: center;
   margin-top: -4em;
+}
+
+/*Art Gallery*/
+#descriptionTable
+{
+  display: grid;  
+  justify-content: center;
+}
+#table
+{
+  font-size: 0.8em;
+  width: 50em;
+}
+th
+{
+  text-align: center;
 }
