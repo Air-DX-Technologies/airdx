@@ -198,6 +198,15 @@ footer a.text-light:hover {
 
 
 /* Adjustments: */
+@media screen and (max-width: 650px)
+{
+    #table
+    {
+      font-size: 0.8em;
+      width: 95vw;
+    }
+}
+
 .logo
 {
   display: grid;
@@ -214,7 +223,7 @@ footer a.text-light:hover {
 #table
 {
   font-size: 0.8em;
-  width: 50vw;
+  width: 50em;
 }
 th
 {
